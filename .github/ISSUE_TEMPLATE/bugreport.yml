@@ -7,7 +7,7 @@ body:
   - type: markdown
     attributes:
       value: >-
-        Hi there!
+        Hi there! 
 
         We'd appreciate it if you could search on pip's existing issues prior to filing
         a bug report.
